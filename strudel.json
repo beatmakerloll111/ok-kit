@@ -1,0 +1,12 @@
+{
+  "samples": {
+    "808": "808.wav",
+    "clap": "clap.wav",
+    "hi_hat": "hi_hat.wav",
+    "open_hat": "open_hat.wav",
+    "perc_t": "perc_t.wav",
+    "snare": "snare.wav",
+    "vox_chant": "vox_chant.wav",
+    "vox_kashpaint": "vox_kashpaint.wav"
+  }
+}
